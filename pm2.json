@@ -1,0 +1,6 @@
+{
+  "name": "file-support-playground",
+  "script": "./server/index.js",
+  "node_args": "--require babel-polyfill",
+  "watch": ["server"],
+}
